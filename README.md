@@ -51,4 +51,5 @@ This portfolio is designed to effectively present my technical expertise, projec
 
 **Mayank Raj**
 B.Tech – Mathematics and Computing
+
 📧 [strawhat.mayank@gmail.com](mailto:strawhat.mayank@gmail.com)
